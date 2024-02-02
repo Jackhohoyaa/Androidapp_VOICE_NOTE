@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/sharp_chat_bubble_10" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_15" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_20" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_25" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_30" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_35" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_40" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_45" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_50" android:duration="100" />\
+    <item android:drawable="@drawable/sharp_chat_bubble_55" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_60" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_65" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_70" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_75" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_80" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_85" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_90" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_95" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_100" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_95" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_90" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_85" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_80" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_75" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_70" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_65" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_60" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_55" android:duration="100" />\
+    <item android:drawable="@drawable/sharp_chat_bubble_50" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_45" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_40" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_35" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_30" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_25" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_20" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_15" android:duration="100" />
+    <item android:drawable="@drawable/sharp_chat_bubble_10" android:duration="100" />
+</animation-list>
